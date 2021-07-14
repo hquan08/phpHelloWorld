@@ -13,12 +13,7 @@ and open the template in the editor.
         <h2 style="text-align: center;">
         <?php
         // put your code here
-           $a = 5; //declare variables
-           $b = 6;
            echo "Hello World</br>";
-           echo "if this shows up and is readable, it means I have done the xampp host setup for php project in netbeans</br>";
-           echo "Hello World</br>";
-           echo "5 + 6 equals to ", $a + $b; //print the plus result
         ?>
         </h2>
     </body>
